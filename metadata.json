@@ -1,0 +1,15 @@
+{
+  "name": "tuljaram-java",
+  "version": "0.1.0",
+  "author": "Tuljram Singh <tuljarams@yahoo.com>",
+  "summary": "This module is managed by puppet",
+  "license": "Apache-2.0",
+  "source": "https://github.com/tuljarams/puppet-java",
+  "project_page": "https://github.com/tuljarams/puppet-java",
+  "issues_url": "https://github.com/tuljarams/puppet-java/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
